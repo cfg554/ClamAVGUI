@@ -22,8 +22,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone <your-repository-url>
-cd <project-directory>
+git clone https://github.com/cfg554/ClamAVGUI.git
+cd ClamAVGUI
 ```
 
 ### 2. 使用 Docker 构建和运行
